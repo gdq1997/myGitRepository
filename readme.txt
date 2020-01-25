@@ -8,4 +8,4 @@ git has a mutable index called stage
 第一次修改
 create new branch
 
-creating a new branch is quick & simple
+create new branch is demo1
